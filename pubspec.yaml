@@ -5,7 +5,8 @@ description: Simple spell checker for Dart using Peter Norvig's algorithm
 homepage: https://github.com/ALMDart/dart_spell_checker
 
 environment:
-  sdk: '>=2.7.0 <3.0.0'
+  #sdk: '>=2.7.0 <3.0.0'
+  sdk: '^3.0.0-21.0.dev' #15/12/22
 
 dev_dependencies:
   test: ^1.14.2
