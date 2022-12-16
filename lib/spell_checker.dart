@@ -1,3 +1,4 @@
+//@dart=2.9
 library dart_spell;
 
 import 'dart:collection';
